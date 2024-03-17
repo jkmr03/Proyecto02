@@ -30,4 +30,10 @@ El análisis se centra en entender los factores que contribuyen a los accidentes
 Durante el análisis, se utilizaron KPIs específicos, como:
 - **Proporción de Accidentes con Víctimas Menores de Edad:** Calculado con DAX en Power BI, indicando la proporción de accidentes que involucraban a víctimas menores de edad.
 - **Proporción de Accidentes con Víctimas en Moto:** Otra medida calculada con DAX en Power BI, mostrando la proporción de accidentes con víctimas que viajaban en moto.
+## Sobre mí
+Me llamo Josue Mora y soy un entusiasta del Dara Science , aunque mi pasion es el Anilisis de Datos. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes como tambien poder trabajar en proyectos individuales.
 
+## Contacto
+Puedes encontrarme en:
+- [GitHub](https://github.com/jkmr03) 🚀
+- [LinkedIn](https://www.linkedin.com/in/josue-mora-8778bb1b7/) 💼
